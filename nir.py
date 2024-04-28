@@ -41,6 +41,7 @@ def main():
             st.write(f"{i + 1}. {res}")
     else:
         st.write("No previous results")
+st.caption("Made is part of the ACM-W JuMP Program")
 
 if __name__ == "__main__":
     main()
